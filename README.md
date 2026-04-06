@@ -1,6 +1,6 @@
 # Hey, I'm Melusi
 
-**I'm not a developer.** I studied Film, worked as a creative director (Netflix, BFI, Sky, Discovery Channel), and somehow ended up here — building things for fun and not being able to stop.
+**I'm not a developer.** I studied Film, worked as a creative director (Universal Pictures (Working Title), BFI, Sky, Discovery Channel), and somehow ended up here — building things for fun and not being able to stop.
 
 No computer science degree. No bootcamp. Just curiosity, consistency, and an unhealthy relationship with shipping side projects.
 
