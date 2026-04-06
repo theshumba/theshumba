@@ -1,38 +1,35 @@
 # Hey, I'm Melusi
 
-Full-stack engineer based in the UK. I build interactive web applications, 3D visualisations, content automation systems, and browser extensions.
+**I'm not a developer.** I studied Film, worked as a creative director (Netflix, BFI, Sky, Discovery Channel), and somehow ended up here — building things for fun and not being able to stop.
 
-I care about clean architecture, offline-first design, and shipping things that work.
+No computer science degree. No bootcamp. Just curiosity, consistency, and an unhealthy relationship with shipping side projects.
 
-## What I'm Building
+## What I've Built
+
+I genuinely just build whatever interests me. Some of it's useful, some of it's just cool.
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [**Macro Intel**](https://github.com/theshumba/macro-intel) | Global economics intelligence dashboard with a 3D interactive globe | React, Three.js, Recharts |
-| [**Solar System Map**](https://github.com/theshumba/solar-system-map) | Interactive 3D solar system explorer with orbital mechanics | React Three Fiber, drei, GSAP |
-| [**Neurova**](https://github.com/theshumba/neurova) | Browser extension that tracks cognitive fitness in the age of AI | React, TypeScript, Dexie.js |
-| [**PairNest**](https://github.com/theshumba/pairnest) | Couples social platform with real-time interactions | Next.js, Framer Motion, Zustand |
-| [**Moses Arabic**](https://github.com/theshumba/moses-arabic-app) | Spaced-repetition Arabic learning app with Firebase sync | React, Tailwind CSS, Firebase |
+| [**Gogo Arabic**](https://github.com/theshumba/gogo-arabic) | Full Arabic learning RPG — 210K+ lines of code, 15 milestones shipped | React, Phaser 3, Redux, Express, MongoDB |
+| [**Macro Intel**](https://github.com/theshumba/macro-intel) | Global economics dashboard with a 3D interactive globe | React, Three.js, Recharts |
+| [**Solar System Map**](https://github.com/theshumba/solar-system-map) | Interactive 3D solar system explorer with real orbital mechanics | React Three Fiber, GSAP |
+| [**Neurova**](https://github.com/theshumba/neurova) | Browser extension that tracks your cognitive fitness | React, TypeScript, Dexie.js |
+| [**Moses Arabic**](https://github.com/theshumba/moses-arabic-app) | Spaced-repetition Arabic learning app with cloud sync | React, Tailwind CSS, Firebase |
+| [**MMB Surfacing**](https://github.com/theshumba/mmb-surfacing-app) | Offline-first road operations PWA for a real business | React, Supabase, Dexie.js |
 
 ## Content & Automation
 
-I also build automated content pipelines for [FrameCoach](https://framecoach.io), a camera coaching app for indie filmmakers:
+I also co-founded [FrameCoach](https://framecoach.io) — an AI camera coaching app for indie filmmakers. I built the entire content and growth infrastructure around it:
 
-- [**Content Factory**](https://github.com/theshumba/framecoach-content-factory) — Generates Instagram carousels, video reels, and story assets at scale using Remotion + Puppeteer
-- [**X Engine**](https://github.com/theshumba/framecoach-x-engine) — GitHub Actions-powered auto-posting to X/Twitter with AI-generated trending content
-- [**Blog Engine**](https://github.com/theshumba/framecoach-blog-engine) — Automated blog publishing pipeline with RSS ingestion and quality gates
-- [**Blog**](https://theshumba.github.io/framecoach-blog/) — 50+ SEO-optimised filmmaking articles on GitHub Pages
+- [**Content Factory**](https://github.com/theshumba/framecoach-content-factory) — Generates carousels, video reels, and story assets at scale
+- [**X Engine**](https://github.com/theshumba/framecoach-x-engine) — Auto-posting to X/Twitter with AI-generated trending content
+- [**Blog**](https://theshumba.github.io/framecoach-blog/) — 50+ SEO-optimised filmmaking articles
 
-## Tech Stack
+## The Point
 
-```
-Frontend        React · Next.js · Tailwind CSS · Framer Motion
-3D / Visuals    React Three Fiber · drei · Three.js · GSAP
-Backend         Node.js · Express · Firebase · Supabase
-Data            MongoDB · IndexedDB (Dexie.js) · PostgreSQL
-Automation      GitHub Actions · Puppeteer · Remotion · ffmpeg
-Languages       JavaScript · TypeScript · Python
-```
+I'm proof that you don't need a technical background to build real things. You just need to start and keep going. Every project here was built by a filmmaker who refused to wait for permission.
+
+If you're a non-technical person sitting on an idea — just build it.
 
 ## Stats
 
