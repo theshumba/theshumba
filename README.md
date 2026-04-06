@@ -11,6 +11,7 @@ I genuinely just build whatever interests me. Some of it's useful, some of it's 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [**Gogo Arabic**](https://github.com/theshumba/gogo-arabic) | Full Arabic learning RPG — 210K+ lines of code, 15 milestones shipped | React, Phaser 3, Redux, Express, MongoDB |
+| [**Focal Length Visualiser**](https://github.com/theshumba/focal-length-visualiser) | Interactive lens & FOV tool — see what each focal length sees before you shoot | React, Tailwind CSS, SVG |
 | [**Macro Intel**](https://github.com/theshumba/macro-intel) | Global economics dashboard with a 3D interactive globe | React, Three.js, Recharts |
 | [**Solar System Map**](https://github.com/theshumba/solar-system-map) | Interactive 3D solar system explorer with real orbital mechanics | React Three Fiber, GSAP |
 | [**Neurova**](https://github.com/theshumba/neurova) | Browser extension that tracks your cognitive fitness | React, TypeScript, Dexie.js |
